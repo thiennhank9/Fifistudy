@@ -1,0 +1,3 @@
+export const GET_VOCABULARY = "GET_VOCABULARY";
+
+export const GET_SAVE_FILM = "GET_SAVE_FILM"

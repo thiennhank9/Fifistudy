@@ -1,0 +1,5 @@
+export const GET_EPISODE = "GET_EPISODE";
+
+export const GET_FILM_DETAIL = "GET_FILM_DETAIL";
+
+export const GET_DATTA_DETAIL_PAGE = "GET_DATA_DETAIL_PAGE";
